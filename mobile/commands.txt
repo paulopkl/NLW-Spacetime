@@ -1,0 +1,5 @@
+
+npm i nativewind
+npm i tailwindcss -D
+npx tailwindcss init
+npm i prettier-plugin-tailwindcss -D

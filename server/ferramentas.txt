@@ -1,0 +1,6 @@
+httpie
+    - choco install httpie
+
+
+# JWT
+    - JSON Web Token
